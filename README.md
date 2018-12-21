@@ -1,4 +1,4 @@
-# Weather-App-
+# WeatherApp
 Simple weather app using React JS and openweather API 
 
 To use this app, need to download node.js and npm, then run "npx create-react-app [app name]"
